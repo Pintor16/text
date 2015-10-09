@@ -1,0 +1,5 @@
+  size(500,200);
+  background(0);
+  textSize(50);
+  fill(0,255,0); 
+  text("text", 250,1
